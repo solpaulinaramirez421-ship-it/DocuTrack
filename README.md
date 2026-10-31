@@ -9,8 +9,8 @@ Módulo interno para gestionar de forma jerárquica el repositorio de documentos
 
 | Integrante | Responsabilidades |
 |------------|-------------------|
-| Sol Paulina Ramirez| : Model (Nodo, ArbolBinario), recorridos, configuración del repositorio|
-| Mariana Jimenez Giraldo| : View (impresión ASCII), Controller, README y pruebas |
+| Sol Paulina Ramirez|  Model (Nodo, ArbolBinario), recorridos, configuración del repositorio|
+| Mariana Jimenez Giraldo|  View (impresión ASCII), Controller, README y pruebas |
 
 
 ## Requisitos para ejecutar
